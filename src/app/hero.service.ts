@@ -90,7 +90,7 @@ export class HeroService {
     this.messageService.add(`HeroService: ${message}`);
   }
 
-  private heroesUrl = 'api/heroes'; // URL to web api
+  private heroesUrl = 'api/heroes'; // URL to web api 
 
 
   /**
